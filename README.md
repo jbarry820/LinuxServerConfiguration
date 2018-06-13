@@ -7,7 +7,9 @@
   * Apache2
   * Postgresql
   * Flask
-
+## Configuration Changes Made ##
+  * Port 2200 was set for SSH in the /etc/ssh/sshd_config file
+      * Note that on AWS it is very imortant to do this AFTER that port has been opened on AWS!!
 
 This web app is a project for the Udacity [FSND Course](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
