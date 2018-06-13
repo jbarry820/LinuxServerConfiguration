@@ -1,9 +1,9 @@
-# LinuxServerConfiguration
+# LinuxServerConfiguration #
 
-# The IP Address of the Server for this project is 18.222.105.219
-# The SSH port is 2200
-# The complete URL to the hosted web application is http://westalabamabeecompany.com
-* Software that has been installed:
+## The IP Address of the Server for this project is 18.222.105.219 ##
+## The SSH port is 2200 ##
+## The complete URL to the hosted web application is http://westalabamabeecompany.com ##
+## Software that has been installed: ##
   * Apache2
   * Postgresql
   * Flask
