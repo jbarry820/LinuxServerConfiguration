@@ -16,7 +16,7 @@ This is a project for the Udacity [FSND Course](https://www.udacity.com/course/f
   * Remote login apart from SSH has been disabled.
   * The application is installed in the /var/www/FlaskApp/FlaskApp subdirectory
   * The file that contain the flask application logig is __init__.py
-  * A virtual environment called WABCO was created
+  * A virtual environment called WABCO was created and versions of software installed there to
   * The /etc/apache2/sites-available/FlaskApp.conf file was edited to include westalabamabeecompany.com and information on the virtual environment
 ## A user called grader has been created ##
   * To SSH into the server with the grader user:
@@ -24,4 +24,5 @@ This is a project for the Udacity [FSND Course](https://www.udacity.com/course/f
       * The passphrase is M@y$2118
 
 ## Credits
+  * I used the course material from the the Udacity FSND as a guide to setting up the server
   * I was assisted with problems in installation and configuration by Vladyslav Z. from freelancer.com
